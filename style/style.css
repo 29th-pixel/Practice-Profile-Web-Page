@@ -1,0 +1,32 @@
+body {
+  margin-top: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
+  font-size: larger;
+}
+
+hr {
+  height: 5px;
+  background: #d2b48c;
+}
+
+#profile-image {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+#section-heading-1,
+#section-heading-2,
+#section-heading-3 {
+  text-align: center;
+}
+
+#heading-1, #heading-2{
+    margin:0;
+    padding:0;
+}
+
+p {
+  font-size: large;
+}
