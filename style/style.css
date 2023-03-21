@@ -1,7 +1,7 @@
 body {
-  margin-top: 50px;
-  margin-right: 100px;
-  margin-left: 100px;
+  margin-top: 2rem;
+  margin-right: 5rem;
+  margin-left: 5rem;
   font-size: larger;
 }
 
@@ -22,9 +22,10 @@ hr {
   text-align: center;
 }
 
-#heading-1, #heading-2{
-    margin:0;
-    padding:0;
+#heading-1,
+#heading-2 {
+  margin: 0;
+  padding: 0;
 }
 
 p {
